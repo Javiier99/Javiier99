@@ -35,7 +35,7 @@
   <img src="/img/logos/python-original.svg" alt="Python" height="40" title="Python"/>&nbsp;
   <img src="/img/logos/flask-original.svg" alt="Flask" height="40" title="Flask"/>&nbsp;
   <img src="/img/logos/django-plain.svg" alt="Django" height="40" title="Django"/>&nbsp;
-  <img src="/img/logos/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_pdlelneo05ui6m4l1cqj.webp" alt="Django Rest Framework" height="40" title="Django Rest Framework"/>&nbsp;
+  <img src="/img/logos/djandorest.png" alt="Django Rest Framework" height="40" title="Django Rest Framework"/>&nbsp;
   <img src="/img/logos/mysql-original.svg" alt="SQL" height="40" title="SQL"/>&nbsp;
   <img src="/img/logos/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB"/>
 </p>
@@ -50,7 +50,7 @@
   <img src="/img/logos/tensorflow-original.svg" alt="TensorFlow" height="40" title="TensorFlow"/>&nbsp;
   <img src="/img/logos/pytorch-original.svg" alt="PyTorch" height="40" title="PyTorch"/>&nbsp;
   <img src="/img/logos/PL8X94efBsjvhfQV3wyyj-UUjn5uUTngOmDCOl0lrvW-20250814-103121.png" alt="OpenAI GPT-4" height="40" title="OpenAI GPT-4"/>&nbsp;
-  <img src="/img/logos/El texto del párrafo.png" alt="PyCaret" height="40" title="PyCaret"/>&nbsp;
+  <img src="/img/logos/PyCaret.png" alt="PyCaret" height="40" title="PyCaret"/>&nbsp;
   <img src="/img/logos/knime-analytics-platform.webp" alt="KNIME" height="40" title="KNIME"/>
 </p>
 
