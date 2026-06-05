@@ -26,14 +26,14 @@
   <img src="/img/logos/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript"/>&nbsp;
   <img src="/img/logos/wordpress-plain.svg" alt="WordPress" height="40" title="WordPress"/>&nbsp;
   <img src="/img/logos/figma-original.svg" alt="Figma" height="40" title="Figma"/>&nbsp;
-  <img src="/img/logos/illustrator-plain.svg" alt="Adobe Illustrator" height="40" title="Adobe Illustrator"/>
+  <img src="/img/logos/illustrator-plain.png" alt="Adobe Illustrator" height="40" title="Adobe Illustrator"/>
 </p>
 
 ### 🐍 Especialización Actual: Python & Data Backend
 *Herramientas y frameworks que estoy implementando activamente en mis proyectos de formación:*
 <p align="left">
   <img src="/img/logos/python-original.svg" alt="Python" height="40" title="Python"/>&nbsp;
-  <img src="/img/logos/flask-original.svg" alt="Flask" height="40" title="Flask"/>&nbsp;
+  <img src="/img/logos/flask-original.png" alt="Flask" height="40" title="Flask"/>&nbsp;
   <img src="/img/logos/django-plain.svg" alt="Django" height="40" title="Django"/>&nbsp;
   <img src="/img/logos/djandorest.png" alt="Django Rest Framework" height="40" title="Django Rest Framework"/>&nbsp;
   <img src="/img/logos/mysql-original.svg" alt="SQL" height="40" title="SQL"/>&nbsp;
@@ -60,7 +60,7 @@
   <img src="/img/logos/jupyter-original.svg" alt="Jupyter Notebook" height="40" title="Jupyter Notebook"/>&nbsp;
   <img src="/img/logos/Postman_(software).png" alt="Postman" height="40" title="Postman"/>&nbsp;
   <img src="/img/logos/git-original.svg" alt="Git" height="40" title="Git"/>&nbsp;
-  <img src="/img/logos/github-original.svg" alt="GitHub" height="40" title="GitHub"/>&nbsp;
+  <img src="/img/logos/github-original.png" alt="GitHub" height="40" title="GitHub"/>&nbsp;
   <img src="/img/logos/image.png" alt="Notion" height="40" title="Notion"/>
 </p>
 
