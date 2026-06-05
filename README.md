@@ -7,7 +7,6 @@
         <ul>
             <li>💻 <strong>Actualmente estoy formándome en:</strong> El ecosistema avanzado de Python, desarrollo de APIs con Flask y Django, y técnicas de modelado con Machine Learning y Deep Learning.</li>
             <li>🎯 <strong>Mi objetivo ahora mismo es:</strong> Superar la certificación oficial PCAP (Certified Associate Python Programmer) de Python Institute y consolidar mis habilidades implementando proyectos de IA y análisis de datos.</li>
-            <li>🛠️ <strong>Me especializo en las siguientes tecnologías:</strong> Desarrollo frontend (HTML, CSS, JavaScript) combinado con backend y análisis de datos en Python (Pandas, NumPy, Flask, Django y Git/GitHub).</li>
         </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -22,47 +21,47 @@
 
 ### 💻 Desarrollo Web y Diseño (Core)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" title="HTML5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" title="CSS3"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" height="40" title="WordPress"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" title="Figma"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" height="40" title="Adobe Illustrator"/>
+  <img src="/img/logos/html5-original.svg" alt="HTML5" height="40" title="HTML5"/>&nbsp;
+  <img src="/img/logos/css3-original.svg" alt="CSS3" height="40" title="CSS3"/>&nbsp;
+  <img src="/img/logos/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript"/>&nbsp;
+  <img src="/img/logos/wordpress-plain.svg" alt="WordPress" height="40" title="WordPress"/>&nbsp;
+  <img src="/img/logos/figma-original.svg" alt="Figma" height="40" title="Figma"/>&nbsp;
+  <img src="/img/logos/illustrator-plain.svg" alt="Adobe Illustrator" height="40" title="Adobe Illustrator"/>
 </p>
 
 ### 🐍 Especialización Actual: Python & Data Backend
 *Herramientas y frameworks que estoy implementando activamente en mis proyectos de formación:*
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" title="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40" title="Flask"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="40" title="Django"/>&nbsp;
-  <img src="ruta-a-tu-imagen-o-url/django-rest.svg" alt="Django Rest Framework" height="40" title="Django Rest Framework"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="40" title="SQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB"/>
+  <img src="/img/logos/python-original.svg" alt="Python" height="40" title="Python"/>&nbsp;
+  <img src="/img/logos/flask-original.svg" alt="Flask" height="40" title="Flask"/>&nbsp;
+  <img src="/img/logos/django-plain.svg" alt="Django" height="40" title="Django"/>&nbsp;
+  <img src="/img/logos/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_pdlelneo05ui6m4l1cqj.webp" alt="Django Rest Framework" height="40" title="Django Rest Framework"/>&nbsp;
+  <img src="/img/logos/mysql-original.svg" alt="SQL" height="40" title="SQL"/>&nbsp;
+  <img src="/img/logos/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB"/>
 </p>
 
 ### 📊 En Formación Avanzada: Ciencia de Datos e IA
 *Tecnologías en las que me estoy capacitando para la extracción y modelado de datos:*
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40" title="Pandas"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="40" title="NumPy"/>&nbsp;
-  <img src="ruta-a-tu-imagen-o-url/matplotlib.svg" alt="Matplotlib" height="40" title="Matplotlib"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" height="40" title="Scikit-learn"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40" title="TensorFlow"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" title="PyTorch"/>&nbsp;
-  <img src="ruta-a-tu-imagen-o-url/openai.svg" alt="OpenAI GPT-4" height="40" title="OpenAI GPT-4"/>&nbsp;
-  <img src="ruta-a-tu-imagen-o-url/pycaret.svg" alt="PyCaret" height="40" title="PyCaret"/>&nbsp;
-  <img src="ruta-a-tu-imagen-o-url/knime.svg" alt="KNIME" height="40" title="KNIME"/>
+  <img src="/img/logos/pandas-original.svg" alt="Pandas" height="40" title="Pandas"/>&nbsp;
+  <img src="/img/logos/numpy-original.svg" alt="NumPy" height="40" title="NumPy"/>&nbsp;
+  <img src="/img/logos/1_gw2NcnIYpiBlFy4le3pF5w.png" alt="Matplotlib" height="40" title="Matplotlib"/>&nbsp;
+  <img src="/img/logos/scikitlearn-original.svg" alt="Scikit-learn" height="40" title="Scikit-learn"/>&nbsp;
+  <img src="/img/logos/tensorflow-original.svg" alt="TensorFlow" height="40" title="TensorFlow"/>&nbsp;
+  <img src="/img/logos/pytorch-original.svg" alt="PyTorch" height="40" title="PyTorch"/>&nbsp;
+  <img src="/img/logos/PL8X94efBsjvhfQV3wyyj-UUjn5uUTngOmDCOl0lrvW-20250814-103121.png" alt="OpenAI GPT-4" height="40" title="OpenAI GPT-4"/>&nbsp;
+  <img src="/img/logos/El texto del párrafo.png" alt="PyCaret" height="40" title="PyCaret"/>&nbsp;
+  <img src="/img/logos/knime-analytics-platform.webp" alt="KNIME" height="40" title="KNIME"/>
 </p>
 
 ### ⚙️ Entornos y Flujo de Trabajo
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" title="VS Code"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" height="40" title="Jupyter Notebook"/>&nbsp;
-  <img src="ruta-a-tu-imagen-o-url/postman.svg" alt="Postman" height="40" title="Postman"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" title="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" title="GitHub"/>&nbsp;
-  <img src="ruta-a-tu-imagen-o-url/notion.svg" alt="Notion" height="40" title="Notion"/>
+  <img src="/img/logos/vscode-original.svg" alt="VS Code" height="40" title="VS Code"/>&nbsp;
+  <img src="/img/logos/jupyter-original.svg" alt="Jupyter Notebook" height="40" title="Jupyter Notebook"/>&nbsp;
+  <img src="/img/logos/Postman_(software).png" alt="Postman" height="40" title="Postman"/>&nbsp;
+  <img src="/img/logos/git-original.svg" alt="Git" height="40" title="Git"/>&nbsp;
+  <img src="/img/logos/github-original.svg" alt="GitHub" height="40" title="GitHub"/>&nbsp;
+  <img src="/img/logos/image.png" alt="Notion" height="40" title="Notion"/>
 </p>
 
 ---
@@ -71,15 +70,15 @@
 *Próximos lenguajes herramientas a aprender:*
 ### ☁️ Cloud Computing & MLOps
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" title="AWS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="40" title="Azure"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" height="40" title="GCP"/>
+  <img src="/img/logos/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" title="AWS"/>&nbsp;
+  <img src="/img/logos/azure-original.svg" alt="Azure" height="40" title="Azure"/>&nbsp;
+  <img src="/img/logos/googlecloud-original.svg" alt="GCP" height="40" title="GCP"/>
 </p>
 
 ### 🖥️ Otros Lenguajes
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" title="PHP"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" title="Java"/>
+  <img src="/img/logos/php-original.svg" alt="PHP" height="40" title="PHP"/>&nbsp;
+  <img src="/img/logos/java-original.svg" alt="Java" height="40" title="Java"/>
 </p>
 
 
@@ -89,7 +88,7 @@
 
 <p align="left">
   <a href="mailto:info@marketingjdr.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40" title="Enviar un correo electrónico"/>
+    <img src="/img/logos/logo-gmail-2020.png" alt="Gmail" height="40" title="Enviar un correo electrónico"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/javier-delgado-rodriguez/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" title="Visitar mi perfil de LinkedIn"/>
