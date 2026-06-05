@@ -3,10 +3,11 @@
     <td width="60%" valign="top">
         <h1>¡Hola! Soy Javier 👋</h1>
         <h3>🚀 Un poco sobre mí...</h3>
-        <p>¡Hola! Soy un apasionado del desarrollo web que ha decidido dar el salto hacia el mundo del Data Science y la Inteligencia Artificial. Actualmente, me encuentro en una formación intensiva especializándome en el ecosistema de Python, Machine Learning y Deep Learning. Mi enfoque combina la creación de interfaces con la lógica de datos, buscando siempre soluciones eficientes y automatizadas. Me motiva afrontar retos complejos, diseñar APIs robustas y entrenar modelos que transformen datos brutos en decisiones inteligentes. ¡Estoy listo para aportar valor y seguir creciendo en mi próximo desafío profesional!</p>
+        <p>Soy un desarrollador con visión de negocio y una sólida base en el ecosistema web. Tras haber gestionado y desarrollado con éxito más de 50 desarrollos web y proyectos digitales orientados a la conversión y la mejora de resultados, he decidido escalar mis habilidades técnicas hacia el desarrollo backend, el Data Science y la Inteligencia Artificial con Python. Mi enfoque actual combina la creación de interfaces con la lógica de datos, buscando siempre soluciones eficientes y automatizadas.</p>
+        <p>Acostumbrado a trabajar mano a mano con el cliente, analizar requerimientos y aportar soluciones eficaces, destaco por mi capacidad para traducir conceptos técnicos complejos a perfiles de negocio, mi motivación constante y la resolución lógica de problemas. Me apasiona afrontar retos complejos, diseñar APIs robustas y entrenar modelos que transformen datos brutos en decisiones inteligentes. ¡Estoy listo para aportar valor estratégico y seguir creciendo en mi próximo desafío profesional!</p>
         <ul>
-            <li>💻 <strong>Actualmente estoy formándome en:</strong> El ecosistema avanzado de Python, desarrollo de APIs con Flask y Django, y técnicas de modelado con Machine Learning y Deep Learning.</li>
-            <li>🎯 <strong>Mi objetivo ahora mismo es:</strong> Superar la certificación oficial PCAP (Certified Associate Python Programmer) de Python Institute y consolidar mis habilidades implementando proyectos de IA y análisis de datos.</li>
+            <li>💻 <strong>Actualmente estoy formándome en:</strong> El ecosistema avanzado de Python, desarrollo de APIs con Flask y Django[cite: 1], y técnicas de modelado con Machine Learning y Deep Learning.</li>
+            <li>🎯 <strong>Mi objetivo ahora mismo es:</strong> Superar la certificación oficial PCAP (Certified Associate Python Programmer) de Python Institute[cite: 1] y consolidar mis habilidades implementando proyectos de IA y análisis de datos.</li>
         </ul>
     </td>
     <td width="40%" align="center" valign="middle">
