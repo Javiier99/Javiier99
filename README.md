@@ -91,7 +91,7 @@
   <a href="mailto:info@marketingjdr.com" target="_blank">
     <img src="/img/logos/logo-gmail-2020.png" alt="Gmail" height="40" title="Enviar un correo electrónico"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/javier-delgado-rodriguez/" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-dr/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" title="Visitar mi perfil de LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="https://marketingjdr.com/" target="_blank">
