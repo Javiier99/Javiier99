@@ -55,7 +55,7 @@
   <img src="/img/logos/knime-analytics-platform.webp" alt="KNIME" height="40" title="KNIME"/>
 </p>
 
-### ⚙️ Entornos y Flujo de Trabajo
+### ⚙️ Entornos y Flujo de Trabajo (Algunas en formación)
 <p align="left">
   <img src="/img/logos/vscode-original.svg" alt="VS Code" height="40" title="VS Code"/>&nbsp;
   <img src="/img/logos/jupyter-original.svg" alt="Jupyter Notebook" height="40" title="Jupyter Notebook"/>&nbsp;
