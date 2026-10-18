@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Get Profile Summary Cards
-        uses: vn7n24zxfk/github-profile-summary-cards@release
+        uses: vn7n24zxfk/github-profile-summary-cards@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
