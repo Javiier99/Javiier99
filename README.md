@@ -82,6 +82,11 @@
   <img src="/img/logos/java-original.svg" alt="Java" height="40" title="Java"/>
 </p>
 
+## 📊 Uso de Lenguajes
+<p align="center">
+  <img src="./profile-summary-cards/svg/dark/lang-usage.svg" alt="Gráfico circular de lenguajes más usados" width="60%" />
+</p>
+
 
 ## 🙋‍♂️ ¡Hablemos! / Contacto
 
