@@ -84,7 +84,7 @@
 
 ## 📊 Uso de Lenguajes
 <p align="center">
-  <img src="./profile-summary-cards/svg/dark/lang-usage.svg" alt="Gráfico circular de lenguajes más usados" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiier99&layout=donut&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 
