@@ -83,7 +83,7 @@
 </p>
 
 ## 📊 Uso de Lenguajes
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiier99&layout=donut&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
