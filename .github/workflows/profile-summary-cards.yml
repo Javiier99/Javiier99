@@ -1,0 +1,32 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # se ejecuta cada 24 horas
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # usa un Personal Access Token (classic) con permiso "repo",
+          # guardado como secret, p. ej. SUMMARY_GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # BRANCH_NAME es opcional, por defecto "main"
+          BRANCH_NAME: "main"
+          # UTC_OFFSET es opcional, por defecto 0
+          UTC_OFFSET: 0
+          # EXCLUDE es opcional: lista de repos separados por coma a excluir
+          EXCLUDE: ""
+          # AUTO_PUSH es opcional (true por defecto): hace commit y push automático
+          AUTO_PUSH: true
