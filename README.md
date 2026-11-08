@@ -83,11 +83,6 @@
   C#
 </p>
 
-## 📊 Uso de Lenguajes
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiier99&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
 
 ## 🙋‍♂️ ¡Hablemos! / Contacto
 
