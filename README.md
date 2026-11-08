@@ -7,6 +7,7 @@
         <p>Acostumbrado a trabajar mano a mano con el cliente, analizar requerimientos y aportar soluciones eficaces, destaco por mi capacidad para traducir conceptos técnicos complejos a perfiles de negocio, mi motivación constante y la resolución lógica de problemas. Me apasiona afrontar retos complejos, diseñar APIs robustas y entrenar modelos que transformen datos brutos en decisiones inteligentes. ¡Estoy listo para aportar valor estratégico y seguir creciendo en mi próximo desafío profesional!</p>
         <ul>
             <li>💻 <strong>Actualmente estoy formándome en:</strong> El ecosistema avanzado de Python, desarrollo de APIs con Flask y Django, y técnicas de modelado con Machine Learning y Deep Learning.</li>
+            <li>💻 <strong>Actualmente estoy formándome en:</strong> Grado Superior DAM.</li>
             <li>🎯 <strong>Mi objetivo ahora mismo es:</strong> Superar la certificación oficial PCAP (Certified Associate Python Programmer) de Python Institute y consolidar mis habilidades implementando proyectos de IA y análisis de datos.</li>
         </ul>
     </td>
