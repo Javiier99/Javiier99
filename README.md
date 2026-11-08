@@ -80,12 +80,12 @@
 ### 🖥️ Otros Lenguajes
 <p align="left">
   <img src="/img/logos/java-original.svg" alt="Java" height="40" title="Java"/>
+  C#
 </p>
 
 ## 📊 Uso de Lenguajes
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiier99&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
-  C#
 </p>
 
 
