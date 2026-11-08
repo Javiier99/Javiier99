@@ -2,13 +2,25 @@
   <tr>
     <td width="60%" valign="top">
         <h1>¡Hola! Soy Javier 👋</h1>
-        <h3>🚀 Un poco sobre mí...</h3>
-        <p>Soy un desarrollador con visión de negocio y una sólida base en el ecosistema web. Tras haber gestionado y desarrollado con éxito más de 50 desarrollos web y proyectos digitales orientados a la conversión y la mejora de resultados, he decidido escalar mis habilidades técnicas hacia el desarrollo backend, el Data Science y la Inteligencia Artificial con Python. Mi enfoque actual combina la creación de interfaces con la lógica de datos, buscando siempre soluciones eficientes y automatizadas.</p>
-        <p>Acostumbrado a trabajar mano a mano con el cliente, analizar requerimientos y aportar soluciones eficaces, destaco por mi capacidad para traducir conceptos técnicos complejos a perfiles de negocio, mi motivación constante y la resolución lógica de problemas. Me apasiona afrontar retos complejos, diseñar APIs robustas y entrenar modelos que transformen datos brutos en decisiones inteligentes. ¡Estoy listo para aportar valor estratégico y seguir creciendo en mi próximo desafío profesional!</p>
-        <ul>
-            <li>💻 <strong>Actualmente estoy formándome en:</strong> El ecosistema avanzado de Python, desarrollo de APIs con Flask y Django, técnicas de modelado con Machine Learning y Deep Learning y el Grado Superior DAM.</li>
-            <li>🎯 <strong>Mi objetivo ahora mismo es:</strong> Superar la certificación oficial PCAP (Certified Associate Python Programmer) de Python Institute y consolidar mis habilidades implementando proyectos de IA y análisis de datos.</li>
-        </ul>
+        <h3>Junior Developer · Python &amp; AI · Backend · DAM &amp; DAW</h3>
+  <p>
+    Llevo más de tres años desarrollando proyectos para clientes: más de <strong>50 webs, tiendas online y embudos de venta</strong> realizados con WordPress, siempre con un objetivo claro, que el proyecto convierta. Ahí aprendí a trabajar mano a mano con el cliente, a convertir requisitos difusos en soluciones concretas y a explicar lo técnico en el idioma del negocio.
+  </p>
+  <p>
+    Ahora estoy centrado en el <strong>backend, el Data Science y la IA con Python</strong>, además del desarrollo de aplicaciones multiplataforma (DAM) y web (DAW). Mi última etapa, como Junior Full Stack Developer en remoto para una empresa internacional, me sirvió para dar el salto del CMS al código: nuevas funcionalidades, corrección de errores y mejora de aplicaciones web en producción.
+  </p>
+  
+  <h4>💻 Me estoy formando en</h4>
+  <ul>
+    <li><strong>Python Developer + IA</strong> (Machine Learning y Deep Learning), Escuela MUSK (2026–2027)</li>
+    <li><strong>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</strong>, Explora (2026–2028)</li>
+    <li><strong>Certificado de Profesionalidad en Desarrollo de Aplicaciones Web (DAW)</strong>, Acción Laboral (septiembre 2026 – febrero 2027)</li>
+  </ul>
+  
+  <h4>🎯 Objetivos para este año</h4>
+  <p>
+    Obtener la certificación <strong>PCAP (Certified Associate Python Programmer)</strong> del Python Institute, completar el Certificado de Profesionalidad en DAW con sus prácticas en empresa, avanzar en el Grado Superior en DAM y consolidar lo aprendido con proyectos reales de IA y análisis de datos.
+  </p>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="/img/animation_500_kxa883sd.gif" width="100%" alt="Mi GIF de presentación">
