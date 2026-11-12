@@ -2,7 +2,7 @@
   <tr>
     <td width="60%" valign="top">
         <h1>¡Hola! Soy Javier 👋</h1>
-        <h3>Junior Developer · Python &amp; AI · Backend · DAM &amp; DAW</h3>
+        <h3>Junior Developer · DAM &amp; DAW · Python &amp; AI · Backend </h3>
   <p>
     Llevo más de tres años desarrollando proyectos para clientes con WordPress, siempre con un objetivo claro, que el proyecto convierta. Ahí aprendí a trabajar mano a mano con el cliente, a convertir requisitos difusos en soluciones concretas y a explicar lo técnico en el idioma del negocio.
   </p>
