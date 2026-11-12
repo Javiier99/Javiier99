@@ -4,10 +4,10 @@
         <h1>¡Hola! Soy Javier 👋</h1>
         <h3>Junior Developer · Python &amp; AI · Backend · DAM &amp; DAW</h3>
   <p>
-    Llevo más de dos años desarrollando proyectos para clientes con WordPress, siempre con un objetivo claro, que el proyecto convierta. Ahí aprendí a trabajar mano a mano con el cliente, a convertir requisitos difusos en soluciones concretas y a explicar lo técnico en el idioma del negocio.
+    Llevo más de tres años desarrollando proyectos para clientes con WordPress, siempre con un objetivo claro, que el proyecto convierta. Ahí aprendí a trabajar mano a mano con el cliente, a convertir requisitos difusos en soluciones concretas y a explicar lo técnico en el idioma del negocio.
   </p>
   <p>
-    Ahora estoy centrado en el <strong>backend, el Data Science y la IA con Python</strong>, además del desarrollo de aplicaciones multiplataforma (DAM) y web (DAW). Mi última etapa, como Junior Full Stack Developer en remoto para una empresa internacional, me sirvió para dar el salto del CMS al código: nuevas funcionalidades, corrección de errores y mejora de aplicaciones web en producción.
+    Ahora estoy centrado en el <strong>desarrollo web con JavaScript, PHP y MySQL</strong>, que estudio en el Certificado de Profesionalidad en Desarrollo de Aplicaciones Web (DAW), junto al Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Como complemento, me formo en <strong>Python e IA</strong>. Mi última etapa, como Junior Full Stack Web Developer en remoto (voluntariado), me sirvió para dar el salto del CMS al código: mantenimiento de aplicaciones web en producción, nuevas funcionalidades y corrección de errores.
   </p>
   
   <h4>💻 Me estoy formando en</h4>
